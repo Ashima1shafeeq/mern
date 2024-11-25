@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  font-style: italic;
+  background-color: blanchedalmond;
+  color: #0ee;
+  border: 2px;
+  border-style:dashed;
+  border-color: black;
+  border-radius: 10px;
+ 
+}
+
+#para{
+  border: 3px red solid;
+}
+
+table,th,td{
+  border: 2px;
+  border-color: rgb(159, 60, 60);
+  border-style: solid;
+  width: 70%;
+  text-align: center;
+}
+.para{
+  border: 2px;
+  border-style: solid;
+  margin: 20px 50px 10px 40px;
+  padding: 30px;
+}
+li{
+  list-style-type: lower-alpha;
+}
